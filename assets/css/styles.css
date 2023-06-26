@@ -1,0 +1,109 @@
+#foto {
+  margin: 2px 2px 2px 6px;
+}
+
+#nombre {
+  margin: 1vw 1vw 1vw 0vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#grado {
+  margin-left: 51px;
+  margin-top: -24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#parafo-contacto {
+}
+
+#email {
+  margin-top: 69px;
+}
+
+#telefono {
+}
+
+#direccion {
+}
+
+#objetivo-profesional {
+}
+
+#sonre-mi {
+  border-right: 3px solid #000000;
+  border-bottom: 3px solid #000000;
+}
+
+#columafoto {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-bottom: 3px solid #000000;
+  height: 100%;
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+#clummobre {
+}
+
+#parafo-fomraciona-cademica {
+  color: #000000;
+  font-size: 20px;
+}
+
+#comuna-informatica {
+  border-right: 3px solid #000000;
+  border-bottom: 3px solid #000000;
+}
+
+#divexpereiencia {
+  margin: 10px;
+}
+
+#parafodeesperiencia {
+}
+
+#parafoexperiencia {
+  border-bottom: 3px solid #000000;
+}
+
+#prsfoidiona {
+  border-bottom: 3px solid #000000;
+}
+
+#columnaidiomas {
+}
+
+#instituto {
+  border-bottom: 3px solid #000000;
+}
+
+#primaria {
+  background: var(--bs-border-color-translucent);
+}
+
+#secundaria {
+  background: var(--bs-border-color-translucent);
+}
+
+#superio1 {
+  background: var(--bs-border-color-translucent);
+}
+
+#superior2 {
+  background: var(--bs-border-color-translucent);
+}
+
+#EXPERIENCIA {
+  margin: 50PX;
+}
+
+#columa-idioma {
+  border-right: 3px solid #000000;
+}
+
